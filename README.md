@@ -1,3 +1,11 @@
+
+## About that project api
+
+Hello, im creating a application programming interface (API) with resources of Laravel 8 and testing endpoint with factories by seeders
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
