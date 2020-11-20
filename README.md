@@ -1,7 +1,7 @@
 
 ## About that project api
 
-Hello, im creating a application programming interface (API) with resources of Laravel 8 and testing endpoint with factories by seeders
+Hello, im developing a application programming interface (API) with resources of Laravel 8 and testing endpoint with factories by seeders
 
 
 
