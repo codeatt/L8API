@@ -13,11 +13,11 @@ class CreatePostApisTable extends Migration
      */
     public function up()
     {
-        Schema::create('post_apis', function (Blueprint $table) {
+        Schema::create('post_api', function (Blueprint $table) {
             $table->id();
             $table->timestamps();
             $table->string('title');
-            $table->text('body');
+            $table->text('description');
         });
     }
 
